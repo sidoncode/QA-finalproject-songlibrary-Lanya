@@ -27,3 +27,7 @@ Run your Spring Boot application, open your browser and navigate to localhost:80
 <br>
 
 Make sure you use the changed password and the correct datasource URL. As per the application.properties, it should be jdbc:h2:mem:testdb.
+<br>
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/431a1d19-19c7-4869-87d6-78c325918df8)
