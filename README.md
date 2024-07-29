@@ -35,7 +35,15 @@ Make sure you use the changed password and the correct datasource URL. As per th
 <br>
 <br>
 <br>
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/ebf10449-5857-4177-a48f-7b3a68ac241c">
+<br>
+<br>
+<br>
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/8628cd32-06ad-4f21-818f-aa3922111ae9">
 
+<br>
+<br>
+<br>
 
 ![image](https://github.com/user-attachments/assets/403e392d-7c9f-433e-9908-b3a010ec7910)
 
